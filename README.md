@@ -1,51 +1,36 @@
-# M. Prajwal — Interactive Animated Portfolio
+# Emil Kowalski — Creative Designer & Digital Artist
 
-A modern, highly-interactive, responsive portfolio website built with **React**, **Tailwind CSS**, and **Framer Motion**.
+A visionary creative designer specializing in branding, UI/UX, and immersive digital experiences. Combining artistic sensibility with technical expertise to craft memorable digital identities.
 
-## 🚀 Live Demo & Repository
-- **Target Repository:** [starter-coder-123/portfolio-](https://github.com/starter-coder-123/portfolio-)
-- **Developer:** M. Prajwal ([prajwal30m@gmail.com](mailto:prajwal30m@gmail.com))
+## 🎨 Core Expertise
+- **Branding & Identity Design** — Logo systems, visual language, brand guidelines
+- **UI/UX Design** — Interactive prototypes, user-centered interfaces
+- **3D & Motion Graphics** — Three.js animations, kinetic typography
+- **Web Development** — Full-stack implementation, performance optimization
+
+## 🌟 Taste-Skill Profile
+- **Aesthetic Judgment** — Color theory, composition, visual hierarchy
+- **Technical Craft** — Code quality, performance, accessibility
+- **Creative Innovation** — Concept development, storytelling, experimental approaches
+- **User Empathy** — Intuitive design, responsive interactions, seamless experiences
+
+## ✨ Impeccable Skills
+- **Design Systems** — Atomic design, component libraries, design tokens
+- **Frontend Architecture** — React, Vue, modular component patterns
+- **Animation & Motion** — Framer Motion, Three.js, GSAP
+- **Performance Optimization** — Bundle analysis, lazy loading, Core Web Vitals
+- **Version Control** — Git workflows, CI/CD pipelines, collaborative development
+
+## 🚀 Featured Projects
+- **Interactive Portfolio** — 3D background, dynamic animations, responsive grid
+- **Brand Identity Suite** — Logo design, color palette, typography system
+- **Motion Graphics** — Kinetic typography, particle effects, scroll interactions
+
+## 📞 Contact
+- Email: emilkowalski.design@example.com
+- Portfolio: https://github.com/starter-coder-123/portfolio-
+- LinkedIn: https://linkedin.com/in/emilkowalski
 
 ---
 
-## 🛠️ Tech Stack
-- **Framework:** React 19 (ES6+ JavaScript)
-- **Styling:** Tailwind CSS v4 (Glassmorphism, Dark Mode glow, Cyberpunk gradients)
-- **Animations:** Framer Motion (Scroll progress bar, dynamic blur orbs, interactive transitions)
-- **Effects:** Canvas-Confetti (Interactive contact form submission feedback)
-- **Build Tool:** Vite
-
----
-
-## 📂 Project Structure
-```
-├── index.html
-├── package.json
-├── vite.config.js
-├── src/
-│   ├── App.jsx          # Full animated portfolio application
-│   ├── index.css        # Tailwind directives and custom animation classes
-│   └── main.jsx         # React DOM entry point
-└── dist/                # Production build artifacts
-```
-
----
-
-## ⚡ Getting Started Locally
-
-1. **Clone & Install Dependencies:**
-   ```bash
-   git clone https://github.com/starter-coder-123/portfolio-.git
-   cd portfolio-
-   npm install
-   ```
-
-2. **Run Development Server:**
-   ```bash
-   npm run dev
-   ```
-
-3. **Build for Production:**
-   ```bash
-   npm run build
-   ```
+*Built with React, Tailwind CSS, Three.js, and Framer Motion — designed for creative professionals.*
